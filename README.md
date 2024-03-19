@@ -69,4 +69,4 @@ The repository will be organized logically, with clear separation of concerns in
 - **Modular Design:** Clear separation of components will promote modularity and facilitate modifications.
 - **Hyperparameter Exploration:** Experimenting with different hyperparameters can optimize performance and tailor the model to specific tasks.
 - **Visualization:** Implementing visualization tools can aid in understanding the model's behavior and attention patterns.
-- **Advanced Techniques (Optional):** Consider incorporating techniques like residual connections, label smoothing, and learning rate scheduling for potential enhancements.
+- **Advanced Techniques (Optional):** Consider incorporating techniques like residual connections, label smoothing, and learning rate scheduling for potential enhancements
